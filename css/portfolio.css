@@ -14,12 +14,6 @@
 #bodyheader {
     border-bottom: 1px solid lightgray;
     color: teal;
-    padding-right: 0;
-    padding-left: 0;
-}
-
-#portfolio {
-    border: 1px solid lightgray;
 }
 
 .card-img {
@@ -33,3 +27,7 @@
     margin-left: 5px;
 }
 
+#padding {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

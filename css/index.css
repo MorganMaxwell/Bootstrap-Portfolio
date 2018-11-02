@@ -16,7 +16,8 @@
     margin-bottom: 2%;
 }
 #image {
-    padding: 10px;
+    padding-left: 5%;
+    margin-top: 12%;
 }
 
 #bodyheader {
@@ -25,5 +26,5 @@
 }
 
 #p1, #p2 {
-    padding: 30px;
+    padding-left: 5%;
 }
