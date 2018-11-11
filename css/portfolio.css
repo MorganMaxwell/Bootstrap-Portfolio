@@ -31,3 +31,15 @@
     margin-top: 2%;
     margin-bottom: 2%;
 }
+
+#hangman {
+    font-size: 1.5;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
