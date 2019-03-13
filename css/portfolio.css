@@ -39,3 +39,7 @@ a:link {
 a:visited {
     color: white;
 }
+
+#dark-text {
+    color: black;
+}
